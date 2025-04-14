@@ -1,0 +1,22 @@
+difference between hifi and low fidelity wireframes
+The main difference between high-fidelity (HiFi) and low-fidelity (LoFi) wire is on budget and color
+in lo fidelity we focus on task flow but in hif we focus on color theme
+low fidelity use one color scheme gray and be boring 
+
+Introduction to frames - something that looks like to what you want to create  
+You can adjust as per your liking based on what you creating
+
+Fonts in figma 
+font size
+fized size
+alignment
+line height 
+explore more on figma
+
+roboto open sans  source pans - LO fidelity
+
+black and white 
+
+Rectangles circles and buttons
+Creating name places 
+zoom in and out options for rounded parts 
